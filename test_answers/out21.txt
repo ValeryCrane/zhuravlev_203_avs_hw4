@@ -1,0 +1,5 @@
+Filled container:
+Container contains 3 elements.
+0: Parameter: 288.714; 2021 movie, named Courage is cartoon, nature: drawn
+1: Parameter: 498.5; 1994 movie, named Leon is screenplay, directed by Besson
+2: Parameter: 504.25; 2017 movie, named Coco is cartoon, nature: drawn

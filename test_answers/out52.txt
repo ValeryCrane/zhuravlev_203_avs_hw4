@@ -1,0 +1,7 @@
+Container contains 4 elements.
+0: Parameter: 167.583; 2011 movie, named Intouchables is screenplay, directed by Nakash
+1: Parameter: 224.333; 2019 movie, named Gentlemen is screenplay, directed by Reachy
+2: Parameter: 288.714; 2021 movie, named Beatles is cartoon, nature: drawn
+3: Parameter: 397; 1985 movie, named Brack is cartoon, nature: plasticine
+Arithmetic mean of all parameters = 269.408
+Calculaton time = 0 sec, 1639 nsec

@@ -1,0 +1,3 @@
+Container contains 0 elements.
+Arithmetic mean of all parameters = -nan
+Calculaton time = 0 sec, 908 nsec

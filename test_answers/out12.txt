@@ -1,0 +1,8 @@
+Container contains 5 elements.
+0: Parameter: 333.333; 2000 movie, named Snatch is screenplay, directed by Reachy
+1: Parameter: 333.667; 2002 movie, named Naruto is cartoon, nature: anime
+2: Parameter: 336.833; 2021 movie, named Nobody is screenplay, directed by Nayshuller
+3: Parameter: 402.2; 2011 movie, named Drive is screenplay, directed by Rephn
+4: Parameter: 1010.5; 2021 movie, named F9 is screenplay, directed by Lean
+Arithmetic mean of all parameters = 483.307
+Calculaton time = 0 sec, 2444 nsec

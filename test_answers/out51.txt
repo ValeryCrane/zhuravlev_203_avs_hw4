@@ -1,0 +1,6 @@
+Filled container:
+Container contains 4 elements.
+0: Parameter: 288.714; 2021 movie, named Beatles is cartoon, nature: drawn
+1: Parameter: 167.583; 2011 movie, named Intouchables is screenplay, directed by Nakash
+2: Parameter: 224.333; 2019 movie, named Gentlemen is screenplay, directed by Reachy
+3: Parameter: 397; 1985 movie, named Brack is cartoon, nature: plasticine

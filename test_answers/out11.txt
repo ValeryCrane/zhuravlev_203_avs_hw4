@@ -1,0 +1,7 @@
+Filled container:
+Container contains 5 elements.
+0: Parameter: 402.2; 2011 movie, named Drive is screenplay, directed by Rephn
+1: Parameter: 336.833; 2021 movie, named Nobody is screenplay, directed by Nayshuller
+2: Parameter: 1010.5; 2021 movie, named F9 is screenplay, directed by Lean
+3: Parameter: 333.333; 2000 movie, named Snatch is screenplay, directed by Reachy
+4: Parameter: 333.667; 2002 movie, named Naruto is cartoon, nature: anime

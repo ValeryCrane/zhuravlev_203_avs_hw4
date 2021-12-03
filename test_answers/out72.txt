@@ -1,0 +1,546 @@
+Container contains 543 elements.
+0: Parameter: 37.2245; 1824 movie, named cgbisqbvtxmkafvuohtuubywbklxoqyvttqksuicmiumcttuz is cartoon, nature: anime
+1: Parameter: 37.3673; 1831 movie, named ubwujktlabkrsaigdsifozhbkfreuzitimlgknpthqrwqjhnm is screenplay, directed by glrnjrfvvjqxxkfilluctqhxtoaezkzc
+2: Parameter: 37.62; 1881 movie, named weigyojtoweayemlobwobroaezcshqiyekapjfbbfqoslknrdl is cartoon, nature: drawn
+3: Parameter: 37.6458; 1807 movie, named nabyndfzuzcuedcynokzlgudgnoorqboaycrkhkmwnibjvqv is cartoon, nature: drawn
+4: Parameter: 37.78; 1889 movie, named mdfkfbztrxdhmcuzesvcqepdbxpqvqeczjezesftmisksjjurj is cartoon, nature: drawn
+5: Parameter: 37.8; 1890 movie, named bzqvwihbagfhzqzfytiklncouuyzudcvkebrausypqeqntuyrc is screenplay, directed by malqarkiwvphxwocrxsrmkpufjghhrifzaudigjvflhftxdd
+6: Parameter: 37.9583; 1822 movie, named ksembqsnarsvlwbtajkpwwmkwmqloooxurjwzzcvlvfshiro is cartoon, nature: drawn
+7: Parameter: 38.02; 1901 movie, named vdcvgliakpfokllorxmzvxbzdpnbsaiseootqhwygmynsnbrgn is cartoon, nature: drawn
+8: Parameter: 38.04; 1902 movie, named ofmvjprkmuinmylwsvfxdfwfjtbpeunejmekzjzhdniscyutea is cartoon, nature: drawn
+9: Parameter: 38.2041; 1872 movie, named tnlotiqinakvqbpbhhcyjwymewegcsopoockpcdvjvmfmzpwb is screenplay, directed by zehtkxk
+10: Parameter: 38.4167; 1844 movie, named yofhtskofkdgukwgclxvnqyphiqeowoorkpupktjucryspxo is screenplay, directed by hbsgzzjmynyjnkwuqoad
+11: Parameter: 38.5319; 1811 movie, named jkzzcowmcfxtqbtnquclzkpkkrammilzopxzrzwjprcyonx is cartoon, nature: drawn
+12: Parameter: 38.56; 1928 movie, named eebhzjovcbeaqfzalvdejpcadiisbqehuotluqduswacwfnjdj is screenplay, directed by bwtiybahoytqjt
+13: Parameter: 38.5714; 1890 movie, named eabbpdrphzqxkvdbefyutwuvnhxaxxhwtmuwgvvntpgnmlpdj is cartoon, nature: drawn
+14: Parameter: 38.58; 1929 movie, named dlsdwfziikkbkdlzoyulvomtnxxyfkspoxaweilzmnjnaubtwh is screenplay, directed by izgyvxusdfdbfvtdayidwkpmbzstirogwcetwq
+15: Parameter: 38.7959; 1901 movie, named tolchnvhhnuooghvohtslvxjbqipnmybeijfdnkeazafqehwk is screenplay, directed by hbjglynpbiltcbnlucprkenl
+16: Parameter: 38.9592; 1909 movie, named zopfnkbksikinxzcmfluimxyfnsprfopovamczkmlmukmyjky is cartoon, nature: drawn
+17: Parameter: 39.1064; 1838 movie, named znbdyxlvgtagztwawwkycaaivdofgcnewavrhgbeywgyzyk is cartoon, nature: drawn
+18: Parameter: 39.52; 1976 movie, named avcywvfdntrpjqygusgvcgemmusrjeomgzrfjztagpteqrzduw is cartoon, nature: drawn
+19: Parameter: 39.5714; 1939 movie, named hbpxjcffdyzcitbphpzsedxzojkytvzzjsogxizuhlgwuostr is screenplay, directed by elpeuddvztkzfqpttajfrbkfmwagllvdinij
+20: Parameter: 39.58; 1979 movie, named jgradywtxocoltdebakjledcwdivzncopkkcrpwrdufqfzcbzf is cartoon, nature: drawn
+21: Parameter: 39.7391; 1828 movie, named ohvkbndushcddevkobwojgvfwuqbownkfcjshwidgbpfwb is cartoon, nature: drawn
+22: Parameter: 39.84; 1992 movie, named srlpuuupbffwsnxmhqkcxmstejqvycqkyzbqncfevynzxctiiq is cartoon, nature: anime
+23: Parameter: 40.2083; 1930 movie, named nkjitajdsdkdyzklqcxatszzfymgcfkynllnqjtxgvpftcut is screenplay, directed by pvmombergwoggmpcg
+24: Parameter: 40.3673; 1978 movie, named foveiirmsrjmtmwehpwqquhghinsmbzvckanwcilhtcoskoae is cartoon, nature: drawn
+25: Parameter: 40.4043; 1899 movie, named nbzireqwpnwdvevjptwrdowamfxxtxwmbukmnmqfblrdoio is screenplay, directed by yxpqsolnralqfsatgom
+26: Parameter: 40.6667; 1830 movie, named dvubqlimoyzkcsbznhbimmioqjkzbplpquthrszskzkoh is cartoon, nature: drawn
+27: Parameter: 40.7143; 1995 movie, named shhsfbgafozgerbwzizjuavxywxjrqpsesjpuvqlomltkzuar is screenplay, directed by nqjbhceqzfyhclvncooncpzyoveegxgur
+28: Parameter: 40.7917; 1958 movie, named xdvrpjtfidjziedqewuxeqzeoraktkkhlvxhpvpvromfcmzv is cartoon, nature: drawn
+29: Parameter: 40.8511; 1920 movie, named lnqcnvvnllmqpxlrrqzydfczqhtthuzojljupicytctkgul is cartoon, nature: drawn
+30: Parameter: 40.9778; 1844 movie, named yfwvlkmoeabxlxjbgsxkibxdoiqblpthfxrqpmnadxlmy is screenplay, directed by kurvsukdb
+31: Parameter: 41; 1845 movie, named kjynmellhwcjxleaqajjzxobnufojlbcjpjlccwfdtynm is cartoon, nature: drawn
+32: Parameter: 41.1042; 1973 movie, named zzslqioadpqxtpnmzznxzelnejvjwnrfczvrcrfkzflnnuqp is cartoon, nature: pupped
+33: Parameter: 41.1633; 2017 movie, named otrgyvvartmqumpjfbydydcxbizeyiurxoqpbbjewfteliqco is cartoon, nature: drawn
+34: Parameter: 41.2041; 2019 movie, named bidbgzzebucqcuxbcfeehdtkdmjirwznrtgowexrjawgaoxlq is screenplay, directed by dwqbfazbpf
+35: Parameter: 41.2174; 1896 movie, named npdvrokulynqndlxbvvkaoddflvowbrsdlzlxexcunanva is screenplay, directed by bmeacmsslyzhxjbnezeqjgiedvp
+36: Parameter: 41.6136; 1831 movie, named lmgslborsjedurefsggqcesdvbbuwvlzmfgjcgbylxij is cartoon, nature: drawn
+37: Parameter: 41.6889; 1876 movie, named gqwbkydlhziydplpkrmdqygiueyhvccshjuhvreinkwhy is cartoon, nature: pupped
+38: Parameter: 41.7333; 1878 movie, named njhjtbuiwfjqpteqhflxfxvhakcvpzylydsazvswjfwsz is screenplay, directed by vfkemagjuizjxerxyiatbgzkinvupkdesomsecclsadkyamixy
+39: Parameter: 41.9318; 1845 movie, named kgakvdzgcrtpopqtxcvforilzrnzysuofrrzzmnxrtui is cartoon, nature: drawn
+40: Parameter: 42.093; 1810 movie, named gdpiwplcbvxlukaozfibaznbcmcjizkdwuqujhwoafr is cartoon, nature: drawn
+41: Parameter: 42.3191; 1989 movie, named tkkcwilvahvfngsvvaqzmdfnuibccsisngyfltislatoykr is cartoon, nature: drawn
+42: Parameter: 42.5; 1955 movie, named monxqsvwbljnbqdlykckykgvrtsxjmccxxskeifzhufcdf is cartoon, nature: anime
+43: Parameter: 42.8043; 1969 movie, named ljqxquhmoexymnxncqzuntqaccsuuptrdrgjzvtjfggssy is screenplay, directed by ovkgixzzibggwijsoohx
+44: Parameter: 43.3043; 1992 movie, named idunnnqivzcwcjextxfbgrqtihagqhxonsrqcypjjutfhm is cartoon, nature: anime
+45: Parameter: 43.4651; 1869 movie, named hejcgwtbkqvylkmzmvwedvekvbbrlyecpadyddyylqy is screenplay, directed by uidyxbqnszgobvq
+46: Parameter: 43.5; 1827 movie, named jzhtoycqfipohhbieqkysdsaazeacmxwillqemtylc is cartoon, nature: drawn
+47: Parameter: 43.5778; 1961 movie, named adfrjzwuuiqklzqjwcpfowyudjtccxtcycwejxfcxddcc is cartoon, nature: plasticine
+48: Parameter: 43.6512; 1877 movie, named ujlrvhyhwpngsascivbhnvtrjbkktogdxotpkhelpbu is screenplay, directed by pbclpnuhgyvpbjilvkcipbazqspvxqpwurhmmqo
+49: Parameter: 43.6522; 2008 movie, named bsozncnamvvfytbchmdogckdcrzugozjdkvkjrrtbwgsge is cartoon, nature: drawn
+50: Parameter: 43.8913; 2019 movie, named jpormefycvkmajtcelscdhfvquqoblxzbuttrqqjzmmvod is cartoon, nature: pupped
+51: Parameter: 43.9333; 1977 movie, named sxpscnfoawzcxsmvgjnjckgfxfezxubpfongjnimwoosv is cartoon, nature: drawn
+52: Parameter: 43.9512; 1802 movie, named ssisbqtyklolqumsgrufclukvjtupnueijbcvqppg is cartoon, nature: drawn
+53: Parameter: 43.9778; 1979 movie, named cphooizviqddmdiavpyiujhadhpmsajnpulxpkeupytyq is cartoon, nature: pupped
+54: Parameter: 44; 1980 movie, named ryrqtuetlybuqzxbyjxparhruerdgwygngmgimcxcnzgx is screenplay, directed by dtzyoas
+55: Parameter: 44; 1848 movie, named zruedhzbdvmnpywvcsiketxosemkmiufkjubqtmurs is cartoon, nature: drawn
+56: Parameter: 44.119; 1853 movie, named ljiyrlgpaasfojjcyfgyinyxhbobdzsywzjpewimoi is cartoon, nature: pupped
+57: Parameter: 44.25; 1947 movie, named kkbkgnahmzhfdgfkxkceklddlaplpmirgofjgrxbinoi is cartoon, nature: pupped
+58: Parameter: 44.2857; 1860 movie, named pfgzupazqwjlbprqyufixheqwgbszjfqbwvlcwbwtf is screenplay, directed by eufjszaeeqybgkdydhnjawiyc
+59: Parameter: 44.4524; 1867 movie, named eezuhuzusrxmwfqvobcxljhrbxlevbkmlgliiagghp is cartoon, nature: drawn
+60: Parameter: 44.4545; 1956 movie, named odloneaucoelymbclebrhmepegvgcrnycprttfccuame is cartoon, nature: anime
+61: Parameter: 44.5349; 1915 movie, named ccmiqihugcvcvdpielbhneatwampsqqxjbhcatvtmou is cartoon, nature: drawn
+62: Parameter: 44.5455; 1960 movie, named rthuzpgwukitakstwsklnlbhhumurzwvzcsahszgdekp is screenplay, directed by qix
+63: Parameter: 44.5556; 2005 movie, named yjbqyfvpjuhluduqjxnjmyckhwmwkutqueconamosczza is cartoon, nature: anime
+64: Parameter: 44.5714; 1872 movie, named zjvbwcfjfqzptvqvvnykzohpqwpqpyzliowlzasbmy is cartoon, nature: drawn
+65: Parameter: 44.5778; 2006 movie, named uqyfsglwmbabhiwmmsvkhcdmhcsmqxjktanopgsaopfpy is cartoon, nature: pupped
+66: Parameter: 44.6429; 1875 movie, named dbmxzonqljsvuvvrpbgxmtcmamwpxncoteziqesuil is cartoon, nature: anime
+67: Parameter: 44.6591; 1965 movie, named tvrdvhskmagfoyvjlffyczyskkeqhqzvacoerywyzzkm is cartoon, nature: drawn
+68: Parameter: 44.6744; 1921 movie, named eoswkwgyrzrrkhpussmsshqhezegusbulycrbvkxjyk is cartoon, nature: drawn
+69: Parameter: 44.6889; 2011 movie, named tgessnqryrqbzmhyntfcwyiyirgkqgmtrrzwcgkmmfggt is screenplay, directed by wcahkqtaogtzjrnocdozb
+70: Parameter: 44.878; 1840 movie, named dategyxeafavrnmuuhoswosawmimgiigwrnflpjyv is cartoon, nature: anime
+71: Parameter: 44.9024; 1841 movie, named ysepgsoahaihezsepuwlsplyzcbgdzmgdncpcifuo is cartoon, nature: drawn
+72: Parameter: 45.0465; 1937 movie, named xiceokmqunzhtexuatlyuyljwjemkldnxfpgznioljc is screenplay, directed by nvzsqqsuzavkxprcxetagmsdfbcexgfcip
+73: Parameter: 45.0682; 1983 movie, named fivkjyvfrhxxfmgxnvnpxwgdmjrzccbyyayhpusulaip is cartoon, nature: anime
+74: Parameter: 45.2045; 1989 movie, named pokrvccnypgiivjkbwsgquclfjgdoevopmqywtctbpgf is cartoon, nature: drawn
+75: Parameter: 45.4; 1816 movie, named qcgokywjigfhzllzwafkpndjakhomwnsufuykacx is cartoon, nature: plasticine
+76: Parameter: 45.475; 1819 movie, named tnohtblvhybyfdhmduvycyyeljgfzwbvcwadfzkt is cartoon, nature: drawn
+77: Parameter: 45.561; 1868 movie, named amyvzzggreptdtfqcypyoxvmosbdrgbqosnstusvs is cartoon, nature: plasticine
+78: Parameter: 45.5682; 2005 movie, named sltjndutbbbaxutslyqiuzxgnkrgtkknsrdjqqghnewp is cartoon, nature: plasticine
+79: Parameter: 45.7619; 1922 movie, named njxnsruozukctstkmdctyjalnkgjhygfifugpueofo is cartoon, nature: anime
+80: Parameter: 45.7674; 1968 movie, named fuehiysqmiddyphmhrtwonxfuophrqwkwzudqtmmkzx is screenplay, directed by sflamxgl
+81: Parameter: 45.814; 1970 movie, named ovckwjvetdfboekmipqarxxpnbfnzdkeackuzwejnez is cartoon, nature: drawn
+82: Parameter: 45.9048; 1928 movie, named apzjhdrasvcwzhqepnnlkrmynqypwhtilkqirzxiop is cartoon, nature: drawn
+83: Parameter: 45.907; 1974 movie, named xfnmhtgsocbgprsjfgwxiooalrbouqupeuejxhtkjka is cartoon, nature: drawn
+84: Parameter: 46; 1978 movie, named mdnwobukarvuqralayoahjzwijrrydoehtjcavyctye is cartoon, nature: anime
+85: Parameter: 46.2791; 1990 movie, named dzhvucjiirjabjvhjlbmbplmkkqzoazsccqqxsavhyx is screenplay, directed by nswjglaatfxlodxymllchosgvpkilggyuemai
+86: Parameter: 46.2821; 1805 movie, named aarzedwxfenpcnpevyppmcduixhtaiajilwfjij is screenplay, directed by palekwgsfxspmsnminkb
+87: Parameter: 46.5349; 2001 movie, named ntdirqsfgiehotphntagzitzrbeplnksavhrcfxfopp is cartoon, nature: drawn
+88: Parameter: 46.6279; 2005 movie, named cdfhhuozkgisrkcnqaqfoxnblocaqdnxtddehkaqdme is screenplay, directed by ttccxddcnlzesearfktthhojcrbiaasw
+89: Parameter: 46.85; 1874 movie, named ubuwbeudwqkhvimlwodgbtdlrtddsvnrgrxdvupo is cartoon, nature: drawn
+90: Parameter: 46.8537; 1921 movie, named khtjnzijdoxiqdvrnzurndqmfztzyuouqhfjrphyc is cartoon, nature: anime
+91: Parameter: 46.9524; 1972 movie, named zfsxdarppaihygugtulgpkfobleafohwnwcjdksnbw is cartoon, nature: plasticine
+92: Parameter: 46.9762; 1973 movie, named himwadydkhxmpxypiptfhspadrgezzzewgpwatrnrb is cartoon, nature: drawn
+93: Parameter: 47; 2021 movie, named hepujkofianhdaspqwliuvxezbzilspkmbrwfycjhnu is cartoon, nature: drawn
+94: Parameter: 47; 1927 movie, named lirgpnurrjkjbglmrvfwbmeinbabxsfmtksyxkcgm is cartoon, nature: anime
+95: Parameter: 47.3; 1892 movie, named zpupbsieenksqkfnxzwlnrmshcjufgaxhnnobnqw is cartoon, nature: drawn
+96: Parameter: 47.3; 1892 movie, named tiekchwfclfmdpmoodsfmgopopizroqiyomlwsbm is screenplay, directed by ekptojptvqfcmxcxvntoyhcvztzyyippliwbheezkfqta
+97: Parameter: 47.3333; 1846 movie, named hxzfrvvqkbinvucqfqaezvwdgpaaflkpurcfafv is cartoon, nature: drawn
+98: Parameter: 47.375; 1895 movie, named ggwncxhsseztrwypwyaaoxlxmwgvmkzfihuxioep is screenplay, directed by axnuqebrczakafqhjmoclttoidtrisivshrfouomahopplg
+99: Parameter: 47.475; 1899 movie, named heiujksqwsbempgoppvtepontcrapeuymfnswkze is screenplay, directed by cuaxtdaxptkdaimoiceuesnaszbagpbnqd
+100: Parameter: 47.4762; 1994 movie, named erryalmadymybrnsvzfdswblvmkthekxespavjsxju is cartoon, nature: plasticine
+101: Parameter: 47.5714; 1998 movie, named xldpqsfgldnhxyqopukvgzrqyrtiqfiidzqfdnixps is cartoon, nature: drawn
+102: Parameter: 47.6842; 1812 movie, named nzhdvvkwiyampyvwzovsmyffoegbvbydkwfxjs is cartoon, nature: drawn
+103: Parameter: 47.6842; 1812 movie, named sapmxnhbbtwsamqdwjgvbsraaqcplkpbmqozrm is cartoon, nature: anime
+104: Parameter: 48.15; 1926 movie, named fftxafhzfnkzlmtqczjmuhkhmuuzaoakcvgtezta is screenplay, directed by ffgmagho
+105: Parameter: 48.2564; 1882 movie, named kqhlskpubloarwvivkhvwwxsbjjfmsmwmwhuqnw is cartoon, nature: plasticine
+106: Parameter: 48.3659; 1983 movie, named jswesgapptscyxhuwyxwknnnoubmfigtblqnhqwjp is cartoon, nature: drawn
+107: Parameter: 48.4878; 1988 movie, named kjmfevukrhqknorcbigtbuoqxulibknawzbhacicd is cartoon, nature: anime
+108: Parameter: 48.7297; 1803 movie, named jefdobzvmvlknveqymivaupjcwkbmqbebtjxi is cartoon, nature: drawn
+109: Parameter: 48.8649; 1808 movie, named ihpxefsfqkyiptttlwtltsbejcgpnvdwxgqeb is cartoon, nature: drawn
+110: Parameter: 48.973; 1812 movie, named taqpdrzkypgkwckpwjazfzvcinhbbkynbicav is cartoon, nature: drawn
+111: Parameter: 49; 2009 movie, named xwtnjsdvfudjgwcmdkbatnksvxuhikljfjcnupgpe is cartoon, nature: drawn
+112: Parameter: 49.1707; 2016 movie, named sqbdprnreahwvuupaxmgbxtgpganrbogxygbwtsnh is cartoon, nature: drawn
+113: Parameter: 50.15; 2006 movie, named qjsmbjnyiaefauaenexfdebojbntfvlcnqcifaim is cartoon, nature: pupped
+114: Parameter: 50.1538; 1956 movie, named vfuzpxfrgvuyloujpzmvklvukidfxkdvegigijl is screenplay, directed by luuegasqrxlvspzgfzmhiomqsplrckdcrv
+115: Parameter: 50.2308; 1959 movie, named dmabnoteorimylsnawltczthssfpcgqalzwpbam is cartoon, nature: drawn
+116: Parameter: 50.4474; 1917 movie, named aejlpbutynfauunxlmvptavynnogmbvbcnvjab is cartoon, nature: anime
+117: Parameter: 50.5; 2020 movie, named jcytrscobtuntiwrzocdznxxlycamsstblyfesmw is screenplay, directed by hijvgawnpfvejxjjzfagyr
+118: Parameter: 50.5556; 1820 movie, named esexfszkktumrwjkstxbbpohlbrritxpiemk is screenplay, directed by ohiybkndczlabew
+119: Parameter: 50.5676; 1871 movie, named rjhyqokbsvswpocdepzxbzozlpobtzahtzdgv is cartoon, nature: drawn
+120: Parameter: 50.6667; 1976 movie, named skxwxoxzfushijxruvfhyizvvbtuaopwpehxyfc is cartoon, nature: drawn
+121: Parameter: 51.0526; 1940 movie, named bberwaexucpyhjphtpgixwnxuremykfvlbfcqv is cartoon, nature: drawn
+122: Parameter: 51.0526; 1940 movie, named ssiuttmnyfcxghxhdycorhjbysscwrdwazgmhg is cartoon, nature: drawn
+123: Parameter: 51.0526; 1940 movie, named kibzkycfgwtwydthkhqxwlqfxsoafhnitzkawr is cartoon, nature: pupped
+124: Parameter: 51.4571; 1801 movie, named itvcdcgfkkfmwemwweyjthjjbeukzlqzpry is cartoon, nature: anime
+125: Parameter: 51.5; 1854 movie, named iltpnxirqfmvvulsbfaqmcjbekpjfqthbuyz is cartoon, nature: drawn
+126: Parameter: 51.5641; 2011 movie, named wxrdjuvzdltkzufjnieigpaferclyvzxmlljczf is cartoon, nature: drawn
+127: Parameter: 51.5789; 1960 movie, named kytzpugqlcmlxvnspsdydftktgpsggsaclxhoc is cartoon, nature: pupped
+128: Parameter: 51.6389; 1859 movie, named dhrrizaxfymybrvdqinpcufukfbzevqnczeg is cartoon, nature: drawn
+129: Parameter: 51.6857; 1809 movie, named weyztzwbphrwvzmenxllxzfthyxexuajgkj is cartoon, nature: plasticine
+130: Parameter: 51.6944; 1861 movie, named brugkxhulakiwouwpoqukkelkbvjpwhcwtua is cartoon, nature: drawn
+131: Parameter: 51.8889; 1868 movie, named svwgtyvzblvrzqgxvpuxhcdfchklndpfpnpn is screenplay, directed by egzrzprmdqcgckdxolsbntefisxsdeczlhfqurzkkqackxv
+132: Parameter: 51.9189; 1921 movie, named pmafjswvfhlbhyshhjlmiizswfpawjmxlmjgm is cartoon, nature: drawn
+133: Parameter: 51.9737; 1975 movie, named rteekirzcckuxprstxysyfqwkvjzjyvywuvtze is screenplay, directed by lnyvezdrgirefchfkstfbbnnqkojvoztztonnnmfeyh
+134: Parameter: 52; 1924 movie, named uhvirnezoyrsnbvejtkayngrwaqguduetevgd is cartoon, nature: plasticine
+135: Parameter: 52.1579; 1982 movie, named adzjdkxhzctbgrizexuafvbtgqshizovxexqzv is cartoon, nature: drawn
+136: Parameter: 52.3714; 1833 movie, named cnkoxfpjflpszcnzeexfyexavigyoavglwy is cartoon, nature: drawn
+137: Parameter: 52.3784; 1938 movie, named zgglmxukyqwyeabgqablydfqcqfziiyfnzrtn is cartoon, nature: pupped
+138: Parameter: 52.4737; 1994 movie, named cmamsbtfwubgxsdvybeihiqdgintwhycrvpvui is cartoon, nature: plasticine
+139: Parameter: 52.6486; 1948 movie, named kbfmbqgqsxyafgzotzuyugcpsxidqqngvsnhq is screenplay, directed by tegbo
+140: Parameter: 53.5556; 1928 movie, named dtlrorhqcjjzggmduatvnnbonaetcovpslbi is cartoon, nature: pupped
+141: Parameter: 53.5882; 1822 movie, named upszqxbjheqtmxdlgwgckfdrpudzlwisjf is screenplay, directed by ujccfhollaydtgdhhzqwkqrrbsi
+142: Parameter: 54.1111; 1948 movie, named mzxjvdhiroitqyetwqxuqrzkeskzwvdzjdgo is screenplay, directed by gzsxbgzowimdksavkayzczvrkkg
+143: Parameter: 54.1667; 1950 movie, named idxhnhzpgspxdmehcchjrivcjhhaindeagfg is screenplay, directed by mlkdoldezykqwilkayoryljawhyzfxabfp
+144: Parameter: 54.2571; 1899 movie, named vuyevkxxfxukyatmcuygrvgnwchdyqcehbt is screenplay, directed by miiizglmpsvticqceugloyano
+145: Parameter: 54.2857; 1900 movie, named guivcobpajllvidjufmkicsqpdbszaopmwm is cartoon, nature: drawn
+146: Parameter: 54.6471; 1858 movie, named digkpjaoksrbeontmmkqxsxjexkokomfps is cartoon, nature: drawn
+147: Parameter: 54.7941; 1863 movie, named szxgxdilaovkisaglqqdhxpzbckuodkamg is cartoon, nature: anime
+148: Parameter: 55.0833; 1983 movie, named bocqqolljdccvrmkfryqdykzbrtspceviogc is cartoon, nature: drawn
+149: Parameter: 55.2647; 1879 movie, named bhzzwubalhillqkcvsydsaoxbbsextkhal is cartoon, nature: drawn
+150: Parameter: 55.4118; 1884 movie, named nspkefcvtoupjzcyfmwvienovlozpiwnby is cartoon, nature: pupped
+151: Parameter: 55.6061; 1835 movie, named qzgsvgffqazcgbensnxkjfrqownfmnvtq is screenplay, directed by nqebjzuyyb
+152: Parameter: 55.6176; 1891 movie, named sityvozdknftpplqaiyjxwvgjmffzdgjqv is screenplay, directed by yflp
+153: Parameter: 55.7576; 1840 movie, named zqeytkleyyldoehegrwhetqvevdegphnj is screenplay, directed by lvhmuiairhymacfcrnowlk
+154: Parameter: 55.8; 1953 movie, named gdqyrijhptiemizpcopnqralaxsnabxjshc is screenplay, directed by iywrtlzqqgctsudcuixymrpxnudebzwhmgnm
+155: Parameter: 56.2424; 1856 movie, named inxzpfyhqnldqwfyuiivvfubcpsgxyezr is cartoon, nature: drawn
+156: Parameter: 56.375; 1804 movie, named vyewhflerxotusqnigrjjkkkrxwpbaom is screenplay, directed by ymdrerdtvjacrapbu
+157: Parameter: 56.4545; 1863 movie, named tbivarqzzwhrouynemsprejaiwlkbuhju is cartoon, nature: drawn
+158: Parameter: 56.5312; 1809 movie, named gfkgbbcphpvofwehmytmpyjvqkpntsgp is cartoon, nature: drawn
+159: Parameter: 56.5938; 1811 movie, named icqukfepnetgpywttykkhhxblooiqgnz is screenplay, directed by vwcr
+160: Parameter: 56.6061; 1868 movie, named umdoeckfndknqkvoafdypbageccqtnpkt is screenplay, directed by surdhqnkysfsxxhdutohbgozzcmpazoobfyejvr
+161: Parameter: 56.7879; 1874 movie, named wcvqrbywvdrrmceoaycnqwowfckzfhgno is cartoon, nature: drawn
+162: Parameter: 56.8438; 1819 movie, named oskpxxlltvgamvhrmuijklbkwnwhbkqi is cartoon, nature: drawn
+163: Parameter: 56.9143; 1992 movie, named xjrszlbibutvhruuompmjnmlhapadeiprxs is screenplay, directed by kksfhgmkasubpxhmjdnhxepeaooyugjuwp
+164: Parameter: 57.3636; 1893 movie, named iivtdcoqtlqsamuxqyebxgdbrituayowg is cartoon, nature: anime
+165: Parameter: 57.4857; 2012 movie, named qnrgjmfgiznysnfzlgrefqoqqnbkfiotyxk is cartoon, nature: drawn
+166: Parameter: 57.6765; 1961 movie, named crmmhafezsoelbceyuqqinqhvgodjmnlgh is cartoon, nature: drawn
+167: Parameter: 57.9706; 1971 movie, named xwqccqiewdduywfjgarostyigpmwsnawej is cartoon, nature: anime
+168: Parameter: 58.0294; 1973 movie, named wcakexspukotkdnhghjzpmrjjahrujpbok is screenplay, directed by encatxnpgqjrvrkqyejxfgfhdpjhtvfpiifhobovzcochaejh
+169: Parameter: 58.1176; 1976 movie, named oftleuuxkoazarxroonpxiqbijebaulaxl is cartoon, nature: plasticine
+170: Parameter: 58.1765; 1978 movie, named mfusckjkbzdfnkfvpyweksrjjmexlzkcbe is screenplay, directed by y
+171: Parameter: 58.1818; 1920 movie, named mebawytonjvhoximimsivxzyksnbbumou is screenplay, directed by wqrwbdhcawbsdqcvlllsewrflmfn
+172: Parameter: 58.2059; 1979 movie, named hhrsfzguiakcpckjzzhcppmmthdqtfibxq is cartoon, nature: drawn
+173: Parameter: 58.5758; 1933 movie, named ktbtjsgsrmymydregrveqcklyuqnvzdif is cartoon, nature: drawn
+174: Parameter: 58.6129; 1817 movie, named butyvyyllbgownyinqyvotvncldjjqa is cartoon, nature: plasticine
+175: Parameter: 58.8387; 1824 movie, named znlqlidjglgtahbjyxucuxfxyljfvdk is cartoon, nature: drawn
+176: Parameter: 59.1471; 2011 movie, named hzqnictonipgfilbnowqhkoswffpjcjiqp is cartoon, nature: drawn
+177: Parameter: 59.2727; 1956 movie, named alasbvasweonbiurphgkcsjatwbjzbvjc is screenplay, directed by voffzql
+178: Parameter: 59.2903; 1838 movie, named mdcxehzakrkrjjvwgnadturhycenlkk is cartoon, nature: drawn
+179: Parameter: 59.3438; 1899 movie, named qnvfaugawhoqvfogadipvuyyyysjtyra is cartoon, nature: plasticine
+180: Parameter: 59.4194; 1842 movie, named nhgxmtqlvdaobbyiytezrjvqztjbzxo is cartoon, nature: plasticine
+181: Parameter: 59.4242; 1961 movie, named weduhhqfnmpiyrriuecxobracgxxcheth is cartoon, nature: anime
+182: Parameter: 59.8387; 1855 movie, named iiisxvxkadaxafqevgpqeslrprgrjiz is cartoon, nature: drawn
+183: Parameter: 60.1; 1803 movie, named eoamimbdxadmabtqhadsdyfdyptgtc is screenplay, directed by flbojsrffkorbbrplgsigjwi
+184: Parameter: 60.1667; 1805 movie, named gghebomwdpogitxdyxmizqepskwzix is cartoon, nature: drawn
+185: Parameter: 60.6333; 1819 movie, named xykcxrzqnjchbvfwsvxmeaosrliqhc is cartoon, nature: drawn
+186: Parameter: 60.9062; 1949 movie, named svvamprrpudvcwqjrryqrnztnzmlvmgb is cartoon, nature: anime
+187: Parameter: 61.125; 1956 movie, named kjqsegjheowrzgktrcpqjlhgnrsjmbmk is screenplay, directed by bozoxjrweqjzcnufapxyysvd
+188: Parameter: 61.2667; 1838 movie, named egmfeqyhoknnqonhiwbnzzxnvrobhw is screenplay, directed by mdppxboppbvipqs
+189: Parameter: 61.3871; 1903 movie, named eicsfiqkfrliutmxhgzymlxswzaszuo is screenplay, directed by qrkkexokqtfxxoreikbqwgw
+190: Parameter: 61.4667; 1844 movie, named vgtswjlwvnkeguidjlbxvpmqkutwwt is cartoon, nature: anime
+191: Parameter: 61.7419; 1914 movie, named ajzxxguceakfvcqthnvbkskaatshnjs is screenplay, directed by ixxhechnhvpalkslnsgvovdrvcrkrwarhixsrtsxkdvmr
+192: Parameter: 61.8667; 1856 movie, named byblbbwawgfntmdwnybkqxerwhesny is cartoon, nature: drawn
+193: Parameter: 61.871; 1918 movie, named rtofvrrtrnhoswmycdwpknznnjegbms is cartoon, nature: anime
+194: Parameter: 61.9032; 1919 movie, named kljkkhcozrvbxodffvrywmpippnttti is screenplay, directed by xyjxvvbdqjknzyrzyuhaewtrtjijhsfjlxaitgxwyjzmz
+195: Parameter: 62.1875; 1990 movie, named voqmhyaxnapilnbkjiriaetkgogdxgmn is screenplay, directed by dmltdhijpmshrvapjduwszneobophr
+196: Parameter: 62.2258; 1929 movie, named kkgqpeqpabivodspixkzhedcktqfcpn is cartoon, nature: pupped
+197: Parameter: 62.3793; 1809 movie, named veaelkdycgpptpyhodpydvyxepxjo is cartoon, nature: drawn
+198: Parameter: 62.4516; 1936 movie, named jxhkqorvobwqhymrxmsprdhjhbylovl is screenplay, directed by xwohjjpsjvboxf
+199: Parameter: 62.4839; 1937 movie, named akewhxcblfcokvksrtiypgtoogmvccw is screenplay, directed by bwqsmzshxxbysssnmveiyvn
+200: Parameter: 62.9; 1887 movie, named vmutpnxampzscsqyuaikzfbgoulqlj is cartoon, nature: pupped
+201: Parameter: 63.3226; 1963 movie, named dtsnkwzrokqkltnqdfttwrbzzlutypg is cartoon, nature: anime
+202: Parameter: 63.4138; 1839 movie, named vbmuererzipgmkvowqvdxpobfxelc is cartoon, nature: drawn
+203: Parameter: 63.5161; 1969 movie, named sscqrcypaolwbkqansyxlhipmcnwjqc is cartoon, nature: plasticine
+204: Parameter: 63.5667; 1907 movie, named pulejsolzcwzkfofnnnzubmdgftzis is cartoon, nature: drawn
+205: Parameter: 63.8333; 1915 movie, named nkbwjoznbftmsjjydyzsaewoduqwwo is cartoon, nature: pupped
+206: Parameter: 63.9355; 1982 movie, named kxfnkiedsqavirjmnbmbvgybvlvakep is cartoon, nature: drawn
+207: Parameter: 64.3214; 1801 movie, named vcarhcnfxnngcictcmlasqmuidjq is screenplay, directed by hdvabbyxvvliajtlucayyvhmdnuyvf
+208: Parameter: 64.8966; 1882 movie, named khpdlxxuwwzrccvpgwroxkbacfhsy is cartoon, nature: drawn
+209: Parameter: 64.8966; 1882 movie, named iycvxmgoxjqsrzvlfmurikkjcaikl is screenplay, directed by bhgvqgmch
+210: Parameter: 65.1; 1953 movie, named gtklqpdxdxkqzbynvzbepowwxitlop is cartoon, nature: drawn
+211: Parameter: 65.1379; 1889 movie, named tvyarxjlgyozzgyozyduvmmibngij is cartoon, nature: drawn
+212: Parameter: 65.25; 1827 movie, named ocblctcrrcrndjinxieakqkegmty is screenplay, directed by gpwyiatiulyvmkqvrnoqivtlxstbtjphzmvyzxd
+213: Parameter: 65.2759; 1893 movie, named enljqvqtjstxzgbsmtinzmgozfmhh is screenplay, directed by cuj
+214: Parameter: 65.2759; 1893 movie, named qydpmfzgfiwjyctiyhchvbcerweqi is screenplay, directed by mrnenjsdhonwlqrrrgpfy
+215: Parameter: 65.4286; 1832 movie, named rwertuatyasfijfusbcvtsqpjlcw is screenplay, directed by g
+216: Parameter: 65.4828; 1899 movie, named nleiwbzpzkqmafikngchqggiumgek is cartoon, nature: drawn
+217: Parameter: 65.6552; 1904 movie, named mdkuybdfttanoxdzvgxdtmzpbguyf is cartoon, nature: drawn
+218: Parameter: 65.7; 1971 movie, named mbabgbqswekzexqvlxbbcusxymjpik is screenplay, directed by kjjcswqntmminqgl
+219: Parameter: 65.7931; 1908 movie, named htsxtsymdzyfedarrdcqzlfoaktte is cartoon, nature: plasticine
+220: Parameter: 65.9333; 1978 movie, named ojarxfisohtcrygsxlkhbazyygcohd is screenplay, directed by tzeauocobgnrrdaygqteilxxhfq
+221: Parameter: 66.3103; 1923 movie, named gintmqbmzmvlcjbiaohicsnsagdmh is cartoon, nature: drawn
+222: Parameter: 66.4138; 1926 movie, named dxvfgiwcgbpblvfldnshavufqkaye is cartoon, nature: drawn
+223: Parameter: 66.5172; 1929 movie, named uoascadvsyqidafwrbqvuhndoxaec is cartoon, nature: drawn
+224: Parameter: 66.6667; 1800 movie, named snwnoevkbkzniaxxhugldvchfsv is cartoon, nature: drawn
+225: Parameter: 66.9333; 2008 movie, named nnghoqvbcnmtclphvqhlwtftjhvpxy is screenplay, directed by fmvdfuunonnwkeiehocxshzujocogktgclgrjgzxqyrvemna
+226: Parameter: 67.2963; 1817 movie, named plvqlzqmkprzbftaqtsrqjjfuba is screenplay, directed by ojrsglakvpurkawbwqikiqb
+227: Parameter: 67.3448; 1953 movie, named lfeczxhaypxrikqeyrodhvtnacstl is cartoon, nature: drawn
+228: Parameter: 67.3704; 1819 movie, named bschxqncaoodqhdsezfzlphcgcf is cartoon, nature: drawn
+229: Parameter: 67.7407; 1829 movie, named fzwwaglpekfxwatveourylzagra is screenplay, directed by avy
+230: Parameter: 67.75; 1897 movie, named hjduobfjkfhqkawhkdysikqdrmdd is screenplay, directed by qjuag
+231: Parameter: 67.8929; 1901 movie, named lewytilvcwizieixytszikwliimj is screenplay, directed by svhycruyxqbyhmpqpvepbljceiykdbvkxclapxcexudvh
+232: Parameter: 67.963; 1835 movie, named lnoytdkitsvbznmrbowhyvtxkon is cartoon, nature: plasticine
+233: Parameter: 68.0741; 1838 movie, named fawlwoeeadppiewezsiyavjohaq is screenplay, directed by xahnqbezrzwutyaqtdsyk
+234: Parameter: 68.1071; 1907 movie, named owseamcruhxipsncpgqocjvcobxb is screenplay, directed by taykhisdtjttsttxtiufyvqzbgs
+235: Parameter: 69; 2001 movie, named thjxcuxwjmxcttykrupkgnezuregh is cartoon, nature: plasticine
+236: Parameter: 69.5714; 1948 movie, named xepfchcjpeyvcscmxqfivsqyamlk is cartoon, nature: drawn
+237: Parameter: 69.6552; 2020 movie, named lzzrjtuqoodgurqwchkaqdfkmnxpy is screenplay, directed by jfdrkcpexpr
+238: Parameter: 69.7308; 1813 movie, named awkallnvpmhhkkxwyexcxjmgyy is cartoon, nature: anime
+239: Parameter: 69.7857; 1954 movie, named fnhcrgzdnhyfxanvossdfkmmgncm is cartoon, nature: anime
+240: Parameter: 70; 1960 movie, named ucljylwmutnqldlcanmqvuvboufn is screenplay, directed by yeammehpvcyz
+241: Parameter: 70.1538; 1824 movie, named gdwdjelhnmfdewtuathxinjpho is cartoon, nature: drawn
+242: Parameter: 70.2222; 1896 movie, named yeggeviuukrshsgmvxeeoorjxvu is screenplay, directed by skwgxqckekjhdhfvmeyyuabsqyshrbqaduqnrddkhntx
+243: Parameter: 70.2857; 1968 movie, named cqnxlhgutbhjiegqjfqhbrgjiotl is cartoon, nature: drawn
+244: Parameter: 70.5357; 1975 movie, named zisjyqelzagxpccbqyvwfqnudcgt is cartoon, nature: drawn
+245: Parameter: 70.5714; 1976 movie, named lfaildarkfhiugvwtjtmbikcogsn is screenplay, directed by kbgbeyhhsjldioyzz
+246: Parameter: 70.6154; 1836 movie, named uirgvghyifbcqzolzdrwzvbdjq is cartoon, nature: anime
+247: Parameter: 70.8148; 1912 movie, named fjcqebscvpsoulffeunazifuraz is cartoon, nature: drawn
+248: Parameter: 71.1923; 1851 movie, named wzjegbykpwbazxondlylkncdss is screenplay, directed by zmxkpyxnmqdanofffyukrobyuvokadquxwnk
+249: Parameter: 72; 1944 movie, named jgfkixcikhbbgefomrsknrtsane is cartoon, nature: plasticine
+250: Parameter: 72.0357; 2017 movie, named yucpkvdxiuutjycqdppjccruayxs is screenplay, directed by qsefqanruycjmiydvt
+251: Parameter: 72.56; 1814 movie, named vzifsqpthchlwbxreujkzukbf is cartoon, nature: anime
+252: Parameter: 72.5926; 1960 movie, named velblwbncghwntkqkhyteyqszbe is cartoon, nature: drawn
+253: Parameter: 73.5385; 1912 movie, named uxxiyubuvkzfpkstdxhvthfqcu is cartoon, nature: drawn
+254: Parameter: 73.8846; 1921 movie, named vwehmxadvjzshmdiyvzrbeputk is cartoon, nature: drawn
+255: Parameter: 73.9259; 1996 movie, named pslusrnrxtzkaviowvpgtjgnfko is cartoon, nature: drawn
+256: Parameter: 74.12; 1853 movie, named cwhydsgvbvsiqjrspygvyfamq is screenplay, directed by zqqithjwhsstwbsukzcuubt
+257: Parameter: 74.3077; 1932 movie, named kgpkuwzfoqpwgiioliokrynfcz is cartoon, nature: drawn
+258: Parameter: 74.5185; 2012 movie, named nqolspknzrbbzbtmktblhxkplxg is cartoon, nature: drawn
+259: Parameter: 74.5926; 2014 movie, named foxisulxnzgixqsjckhmdgbiodj is cartoon, nature: drawn
+260: Parameter: 74.7778; 2019 movie, named bjhukejmkcckxphwcutoalgxwjs is cartoon, nature: drawn
+261: Parameter: 75.0417; 1801 movie, named tuduhfksodwivlhfftyirdml is cartoon, nature: drawn
+262: Parameter: 75.0769; 1952 movie, named ymppqddwxptwhhzeefxtyaiomc is cartoon, nature: drawn
+263: Parameter: 75.4583; 1811 movie, named zucwvedxyqwzwnvyahpbbbcx is cartoon, nature: pupped
+264: Parameter: 75.5769; 1965 movie, named udswujltsewovawpffrwjlfqyp is cartoon, nature: drawn
+265: Parameter: 76.2692; 1983 movie, named mowyyxuorhvkwbxffxxblqlrih is screenplay, directed by dzg
+266: Parameter: 76.8077; 1997 movie, named efavgsbjanejxovwenvrauvbxz is cartoon, nature: drawn
+267: Parameter: 77.9583; 1871 movie, named gtqhtmybicmpxezqmxcfmvnj is screenplay, directed by jhqmgphfyctqtkfarsqblwxtrhbtnaicaqjvcnftoufyvmjku
+268: Parameter: 78.32; 1958 movie, named qkmgvthqglvqlqnpbbemkdxmu is screenplay, directed by omfwlvhktqymijotqjuhlunwhevussasiitwkn
+269: Parameter: 78.8696; 1814 movie, named kkluqbxhjktjblwzfwbmvra is cartoon, nature: drawn
+270: Parameter: 79.16; 1979 movie, named pwphodxdqaagslblkmyvptphr is screenplay, directed by uotioptdggqbgwzekemodnxzopzzbtbwzwmyoulydza
+271: Parameter: 79.2917; 1903 movie, named srmojipgalpfekzxitrswyom is cartoon, nature: pupped
+272: Parameter: 79.4583; 1907 movie, named hqknmewjzvhrslcebzzlefhv is cartoon, nature: drawn
+273: Parameter: 79.625; 1911 movie, named yhuqnlfeadaszbwayavggibb is cartoon, nature: drawn
+274: Parameter: 79.6522; 1832 movie, named qydajaumyvufnoumabkohit is screenplay, directed by zijajanrnudfuiemaibyrsqbxgkgeqn
+275: Parameter: 79.72; 1993 movie, named cxaowewjmfwvilqmunqaidwyu is cartoon, nature: anime
+276: Parameter: 79.8; 1995 movie, named kzdwfuqeameutraxiynppuaft is cartoon, nature: drawn
+277: Parameter: 80.04; 2001 movie, named lhrgconvzlovthakvyrfsjwav is cartoon, nature: anime
+278: Parameter: 80.9583; 1943 movie, named jaxooiakmykucsngfyapqmrn is cartoon, nature: drawn
+279: Parameter: 81.5652; 1876 movie, named ulocsjqvvirtemedupsnlph is cartoon, nature: anime
+280: Parameter: 81.6522; 1878 movie, named nrtsdqnhhdyuppjfseaejyz is screenplay, directed by bhzvfpbmvovvxxeqmbcebnccfmuzqpdzbuzws
+281: Parameter: 81.8636; 1801 movie, named pwmbpjouzidyewnojmlldd is screenplay, directed by baatwf
+282: Parameter: 82.4091; 1813 movie, named qcccrytxdaetrilefwsinr is cartoon, nature: drawn
+283: Parameter: 82.4783; 1897 movie, named zupnavlsntzlmargyaktbsb is screenplay, directed by pdnazgbulydsgq
+284: Parameter: 82.9091; 1824 movie, named dzezwqvmecvrtmtgvlirwi is screenplay, directed by wojzqhngqnmwpkggvyzotygxnwygvvcfnwv
+285: Parameter: 83.2083; 1997 movie, named zidghxbwymkdkcubgoeezxej is cartoon, nature: drawn
+286: Parameter: 83.2273; 1831 movie, named zcdcnodoamowqilgcbmuww is screenplay, directed by hfmdakzjfpkakuyvwtvqutckt
+287: Parameter: 83.4167; 2002 movie, named hvwopykdsvzimajgygcbigub is cartoon, nature: anime
+288: Parameter: 83.5652; 1922 movie, named apdaktoqkyfanpomkxipczc is screenplay, directed by zfhlsybvedfegiygnuv
+289: Parameter: 83.6667; 2008 movie, named chdothbivwsnhnfzpqjjyelx is cartoon, nature: plasticine
+290: Parameter: 83.75; 2010 movie, named nifvlgiskqfzvukzdwhybaxo is screenplay, directed by yusvbdeedsqrgrhxggjipvlmehwgmovesdmruwzfkod
+291: Parameter: 83.9545; 1847 movie, named scvcrlgimgxgyydcqxkceo is screenplay, directed by celogreyfjhgoqjcjcdofkviwyavlpchd
+292: Parameter: 84.2609; 1938 movie, named bpcfagvivwapacqtekfcarg is screenplay, directed by fhqgbofsdolsjolpafqpqdwkanbknxubxmncnwdoh
+293: Parameter: 84.4545; 1858 movie, named grmzhbrtxeedwthdoqbopq is cartoon, nature: drawn
+294: Parameter: 84.7391; 1949 movie, named bwqosbiwbhrqwkhvfpghmfv is cartoon, nature: drawn
+295: Parameter: 85.0455; 1871 movie, named cmdbqyzrpdrbklvmjskrho is screenplay, directed by yuvmrxiabidzinvjauumkuzfzaxnhgrndulnzzpj
+296: Parameter: 85.1364; 1873 movie, named mtfdxezljyszfyqwjvwanu is screenplay, directed by thnurvlsfovrhhpkimpfajitxwajkgcyhzmivl
+297: Parameter: 85.2174; 1960 movie, named robzfglwjpllouiaxxtklny is screenplay, directed by lwhrbowlvsenrkwztbie
+298: Parameter: 85.3913; 1964 movie, named xrqwxcuayznmxwarzzukrig is cartoon, nature: anime
+299: Parameter: 85.4091; 1879 movie, named cnfmsriyuepjlgtsunudzk is screenplay, directed by tzmj
+300: Parameter: 86.5; 1903 movie, named rfoxsuysiizargwaksnscc is screenplay, directed by lwzcimoge
+301: Parameter: 86.5217; 1990 movie, named blrdggptiwxrndltypibblb is cartoon, nature: drawn
+302: Parameter: 87.7143; 1842 movie, named ihmxdnzasrdqtubuetcsu is screenplay, directed by tskrddrdogbqccyirbmhfrokwdwvmcraunzokcvvqxviz
+303: Parameter: 88; 1936 movie, named rvdwpyokrndaoocmmykxoz is cartoon, nature: drawn
+304: Parameter: 90.0952; 1892 movie, named oknmlcavqnkukvekqwwrz is cartoon, nature: anime
+305: Parameter: 90.75; 1815 movie, named ryphvcdhentzwmsiyqep is cartoon, nature: pupped
+306: Parameter: 90.7619; 1906 movie, named gemfhfqksifgoxumnkbax is cartoon, nature: drawn
+307: Parameter: 90.8182; 1998 movie, named jurfsjfabkmuyyotodhjzz is cartoon, nature: pupped
+308: Parameter: 90.9524; 1910 movie, named sgzhgsatzqgutlrapbqvn is cartoon, nature: drawn
+309: Parameter: 91.1; 1822 movie, named kugxhgwjhpsaacffasbu is cartoon, nature: drawn
+310: Parameter: 91.35; 1827 movie, named evkqcgmgjrhxxcnxmqfv is cartoon, nature: anime
+311: Parameter: 91.5; 2013 movie, named enzhuboefnyftulxbwswrg is cartoon, nature: drawn
+312: Parameter: 92.65; 1853 movie, named dahrjinhdvdsubgeqcvx is cartoon, nature: anime
+313: Parameter: 93.2; 1864 movie, named mlgwvzbplxtbotxgvpql is screenplay, directed by vrpkbookzaotnxqemkcubajrfynepceh
+314: Parameter: 93.3; 1866 movie, named ltxtawlveooivefxgtsm is cartoon, nature: anime
+315: Parameter: 93.7619; 1969 movie, named euhsglbdzmfuidcktsgdb is screenplay, directed by sddlsdlhzzbqvfiutuytauqhjtatzcoqycyr
+316: Parameter: 94.4286; 1983 movie, named rokyitpblzbhaufjsptbe is cartoon, nature: drawn
+317: Parameter: 94.45; 1889 movie, named ubtxwchlnzdddofsoauo is cartoon, nature: drawn
+318: Parameter: 95.15; 1903 movie, named jgcpwyzlitokfbjjjhxk is screenplay, directed by nogaixshxflvu
+319: Parameter: 95.381; 2003 movie, named czvtkadbmongpslqpqbwe is cartoon, nature: drawn
+320: Parameter: 95.5789; 1816 movie, named okiqkfrlykglgcijwfc is cartoon, nature: plasticine
+321: Parameter: 96.2632; 1829 movie, named qomapzhwzdalamegpyo is cartoon, nature: drawn
+322: Parameter: 97; 1843 movie, named wqwuvphxvtyaddtcujd is cartoon, nature: plasticine
+323: Parameter: 98.35; 1967 movie, named yxyrewtaeoxulpqonxvf is cartoon, nature: anime
+324: Parameter: 98.65; 1973 movie, named uuznhhgfkgtdiaczglkh is cartoon, nature: plasticine
+325: Parameter: 98.8; 1976 movie, named azozdqamlcqnujnyjlqq is cartoon, nature: drawn
+326: Parameter: 99.3158; 1887 movie, named jvrurzsppqjonrwnawr is cartoon, nature: plasticine
+327: Parameter: 99.35; 1987 movie, named yuipcmtrvjstgkrvycnu is screenplay, directed by hpdxofxjwugiminmhheaqqqgstxhavpk
+328: Parameter: 99.8; 1996 movie, named qsgrrkutqvftznkwkzcb is cartoon, nature: drawn
+329: Parameter: 100.105; 1902 movie, named mtzwuyyaghcsiadzlgx is screenplay, directed by fiatcfa
+330: Parameter: 100.222; 1804 movie, named qvntmjsukronwemqor is cartoon, nature: plasticine
+331: Parameter: 100.333; 1806 movie, named mlqfaukyehjuhrwnhw is cartoon, nature: pupped
+332: Parameter: 100.526; 1910 movie, named pdidjsrhhonmznbjfon is cartoon, nature: pupped
+333: Parameter: 100.842; 1916 movie, named zowisjfjqmdghpzeyxt is cartoon, nature: drawn
+334: Parameter: 100.85; 2017 movie, named tpubqpazfxthurwivtvm is cartoon, nature: drawn
+335: Parameter: 101.053; 1920 movie, named vhbhbqegufsbztvtoyx is cartoon, nature: pupped
+336: Parameter: 102.053; 1939 movie, named igmfwjtoxsikabjeqoc is cartoon, nature: drawn
+337: Parameter: 103.105; 1959 movie, named cvafsgsznvsmpgjsark is screenplay, directed by pcmejnssheglqkybenjsjpvhikt
+338: Parameter: 103.211; 1961 movie, named iavqvptmsagnaubovbl is screenplay, directed by gxflxisjgvhbqbgaw
+339: Parameter: 106.389; 1915 movie, named jauxnzcjvlqheewija is screenplay, directed by lgpzwxbpnvuvxdjai
+340: Parameter: 106.833; 1923 movie, named qpthgfrekzwrrhuqrq is cartoon, nature: drawn
+341: Parameter: 107.056; 1927 movie, named cyzzsjklgfojotkdts is cartoon, nature: anime
+342: Parameter: 109.889; 1978 movie, named pvxyjcleqkeubutizp is cartoon, nature: drawn
+343: Parameter: 110.5; 1989 movie, named vygxlyevopavpcmkev is cartoon, nature: drawn
+344: Parameter: 110.889; 1996 movie, named hcyifzhhemwvwsbpha is screenplay, directed by zedicvwngmblozbyhrijtocmmfiojfawjtflvkrrwjymiidby
+345: Parameter: 111.056; 1999 movie, named eatjapckxpmirexdkd is screenplay, directed by frjrixhawgnecbsvsdq
+346: Parameter: 111.294; 1892 movie, named escfbrbygoztkhxpg is cartoon, nature: pupped
+347: Parameter: 111.611; 2009 movie, named seifthemgqvatgswoc is screenplay, directed by hmpvrmqnzyumizvyaumkxwxhrbilvhqtuelnc
+348: Parameter: 111.706; 1899 movie, named rtxsrvjogykrpuzuc is cartoon, nature: drawn
+349: Parameter: 112.111; 2018 movie, named nbcbsfmnjemmyphzjj is screenplay, directed by rdetfzkxmhdjnoygoaz
+350: Parameter: 113.412; 1928 movie, named kwutzcsteloovinoa is screenplay, directed by i
+351: Parameter: 114.235; 1942 movie, named fkqtqhtmwdvlehmnc is screenplay, directed by qmptzishfckcpfxitgxwrhhtxdyetdueorourckiynqj
+352: Parameter: 114.294; 1943 movie, named zbcxxeghnwiahmmwq is screenplay, directed by n
+353: Parameter: 115.059; 1956 movie, named avqbzwgpjapjmzvdd is cartoon, nature: anime
+354: Parameter: 115.188; 1843 movie, named wdrhlkoieuyayvne is cartoon, nature: drawn
+355: Parameter: 115.412; 1962 movie, named pblmrpvqyathlrqne is cartoon, nature: drawn
+356: Parameter: 115.688; 1851 movie, named ormbjauuxcanbuae is cartoon, nature: plasticine
+357: Parameter: 115.765; 1968 movie, named eomgyselskfromtwg is cartoon, nature: drawn
+358: Parameter: 115.938; 1855 movie, named czraxfispkbkgnph is cartoon, nature: drawn
+359: Parameter: 116; 1972 movie, named svnuxineyqjhewxoh is screenplay, directed by uai
+360: Parameter: 116.312; 1861 movie, named cdlotjsjagdrthur is screenplay, directed by atxobaxuzadmumwdwpodqnrmietqogcvwr
+361: Parameter: 116.562; 1865 movie, named bvccjyjgwpcxggng is cartoon, nature: plasticine
+362: Parameter: 116.688; 1867 movie, named nxoocublknqrmwzq is cartoon, nature: drawn
+363: Parameter: 117.882; 2004 movie, named qljgcqgwlevwhiyaf is cartoon, nature: plasticine
+364: Parameter: 118.353; 2012 movie, named wbehkxbdecgxeebnv is cartoon, nature: drawn
+365: Parameter: 118.562; 1897 movie, named btmbwucfeuvaphma is cartoon, nature: drawn
+366: Parameter: 118.706; 2018 movie, named wsvbidxtzkpiooxxx is cartoon, nature: plasticine
+367: Parameter: 119.312; 1909 movie, named vmwinsgqhighzaos is cartoon, nature: drawn
+368: Parameter: 120.733; 1811 movie, named ataypzunomyrkqo is cartoon, nature: drawn
+369: Parameter: 120.933; 1814 movie, named urzrvryzblowifu is screenplay, directed by cqhodqzju
+370: Parameter: 120.938; 1935 movie, named hzdnhfnackmxjzkz is cartoon, nature: drawn
+371: Parameter: 121.625; 1946 movie, named dzmkgdpyyekxyjuj is cartoon, nature: drawn
+372: Parameter: 121.867; 1828 movie, named vtakyszhhyhbovs is cartoon, nature: pupped
+373: Parameter: 122; 1952 movie, named xazuvythggvhkdtk is cartoon, nature: drawn
+374: Parameter: 124; 1984 movie, named eebeuaaomshoyilj is cartoon, nature: drawn
+375: Parameter: 127; 1905 movie, named rdqgiwdhurjclya is cartoon, nature: drawn
+376: Parameter: 128.2; 1923 movie, named aismetymsdhvfmo is cartoon, nature: anime
+377: Parameter: 130; 1950 movie, named lpnjwgjtrykbbac is cartoon, nature: drawn
+378: Parameter: 130.786; 1831 movie, named yjhfipjypexvxk is cartoon, nature: anime
+379: Parameter: 131.143; 1836 movie, named rzqqzrdwczdiuo is cartoon, nature: pupped
+380: Parameter: 131.733; 1976 movie, named bsydbgbusionrtk is cartoon, nature: plasticine
+381: Parameter: 132.933; 1994 movie, named jfetfctgsvtbaqr is cartoon, nature: drawn
+382: Parameter: 137.357; 1923 movie, named obwlkviwtckitw is cartoon, nature: anime
+383: Parameter: 138.462; 1800 movie, named qdnotpgcnjtah is cartoon, nature: drawn
+384: Parameter: 140.214; 1963 movie, named ousvoeverbyvau is screenplay, directed by bulwwgjnkzczicxhwrqferixtvkypd
+385: Parameter: 140.308; 1824 movie, named iwzedvufnlgnq is cartoon, nature: drawn
+386: Parameter: 140.692; 1829 movie, named zugncaletcfch is cartoon, nature: pupped
+387: Parameter: 141.538; 1840 movie, named ymebahbyuokms is cartoon, nature: drawn
+388: Parameter: 141.643; 1983 movie, named rugmqvrhbjjphp is cartoon, nature: drawn
+389: Parameter: 142.308; 1850 movie, named fcshelybecdth is screenplay, directed by wapejziyksaszukzbdqpsxsdnxbvovnhzakjtjhvqddzghov
+390: Parameter: 144.071; 2017 movie, named dkyxtrnvxmdqpu is cartoon, nature: drawn
+391: Parameter: 146.692; 1907 movie, named tznwoaesfnpfk is screenplay, directed by sxrpwqynznvusormjafipawtqbaaivvjnov
+392: Parameter: 147.923; 1923 movie, named irvxbyqlqefyr is screenplay, directed by b
+393: Parameter: 148.385; 1929 movie, named ldptacivhgzwk is screenplay, directed by zuqpnixratoar
+394: Parameter: 149.308; 1941 movie, named ircjwscbxwhri is screenplay, directed by hdovmcnrokwftuaim
+395: Parameter: 149.385; 1942 movie, named stpqjwjxjsfee is cartoon, nature: drawn
+396: Parameter: 150; 1950 movie, named pmsmuhphdlqlo is screenplay, directed by wtcvuylyatwlxiyfbjiwpu
+397: Parameter: 150.25; 1803 movie, named rkvecxstpzsu is cartoon, nature: drawn
+398: Parameter: 150.385; 1955 movie, named uxlmfowcdbuvu is cartoon, nature: drawn
+399: Parameter: 150.75; 1809 movie, named ulrhgexfheuj is cartoon, nature: drawn
+400: Parameter: 151.846; 1974 movie, named rezbsxixlsvze is cartoon, nature: pupped
+401: Parameter: 152.333; 1828 movie, named gfnvtehslsgs is cartoon, nature: anime
+402: Parameter: 152.385; 1981 movie, named vdykbhndpxyis is cartoon, nature: pupped
+403: Parameter: 152.417; 1829 movie, named hfhydbyttlso is screenplay, directed by mueysiuveqlomuglwkgorfpa
+404: Parameter: 153; 1836 movie, named ymawyllcsmsk is cartoon, nature: pupped
+405: Parameter: 153.692; 1998 movie, named psrvatoaikkmj is screenplay, directed by lqkjazwggegbq
+406: Parameter: 153.75; 1845 movie, named wiynsgwilnqg is screenplay, directed by fpyyyjvdiegpcnqspo
+407: Parameter: 153.846; 2000 movie, named xjgteqziciisk is cartoon, nature: pupped
+408: Parameter: 154.154; 2004 movie, named rzpztgftvlwfd is screenplay, directed by iozvaggxacjugsreomsvdejbhyucc
+409: Parameter: 154.385; 2007 movie, named zzgjsfzmywhle is cartoon, nature: plasticine
+410: Parameter: 156.083; 1873 movie, named ddveuqlezdll is screenplay, directed by vgagxuwzczgylebqfrdtybgyjokttl
+411: Parameter: 159.583; 1915 movie, named swxupdgjxcpc is cartoon, nature: drawn
+412: Parameter: 161.583; 1939 movie, named jjrejcfvamim is cartoon, nature: drawn
+413: Parameter: 163.583; 1963 movie, named pipzxythdkpv is cartoon, nature: drawn
+414: Parameter: 164; 1968 movie, named peksfaddxsfa is cartoon, nature: drawn
+415: Parameter: 165.5; 1986 movie, named ndsuxodxrjej is screenplay, directed by dpnntzgfgyehpekfymspdqjkaljcevyxr
+416: Parameter: 165.727; 1823 movie, named imqxdvieshj is cartoon, nature: drawn
+417: Parameter: 165.818; 1824 movie, named iytpycxgzhs is cartoon, nature: drawn
+418: Parameter: 167.333; 2008 movie, named ccefmolltwty is cartoon, nature: plasticine
+419: Parameter: 167.583; 2011 movie, named ddkvkjxbpyai is cartoon, nature: drawn
+420: Parameter: 167.583; 2011 movie, named pgzswqssnbbu is cartoon, nature: anime
+421: Parameter: 169.455; 1864 movie, named ugqsgblsssf is screenplay, directed by vmqvsltgaazqjrvbjswiedbgepqvfyzcidlzzctfbmtuekto
+422: Parameter: 172.818; 1901 movie, named wdlsglsdsav is cartoon, nature: drawn
+423: Parameter: 173.364; 1907 movie, named rdajvmbocce is screenplay, directed by nvhcyattgiqcmw
+424: Parameter: 174.909; 1924 movie, named kuoxjolrzhg is screenplay, directed by qkfburvawmllmuizwbdlrkasokpkhdhboxgxnwjed
+425: Parameter: 175.182; 1927 movie, named kxmxdslcyvp is cartoon, nature: drawn
+426: Parameter: 180; 1800 movie, named ymvcjdcoaj is cartoon, nature: pupped
+427: Parameter: 181.4; 1814 movie, named hcpufjjdqh is screenplay, directed by jxxwvpzhbxzeuackyyjkekicje
+428: Parameter: 188.8; 1888 movie, named nkwqzpaelv is cartoon, nature: pupped
+429: Parameter: 190.9; 1909 movie, named dqxaebyeaw is cartoon, nature: drawn
+430: Parameter: 191.6; 1916 movie, named ajyvthxtrn is cartoon, nature: drawn
+431: Parameter: 193.5; 1935 movie, named sksursxivc is screenplay, directed by piljwokimc
+432: Parameter: 194.2; 1942 movie, named ghcaxjkbff is cartoon, nature: plasticine
+433: Parameter: 195.2; 1952 movie, named auwgueisfo is cartoon, nature: drawn
+434: Parameter: 196.4; 1964 movie, named fecjabuffz is cartoon, nature: drawn
+435: Parameter: 196.6; 1966 movie, named hqzeqvwoll is cartoon, nature: plasticine
+436: Parameter: 197.1; 1971 movie, named mpevrclfnq is cartoon, nature: pupped
+437: Parameter: 197.7; 1977 movie, named xalfqytkuf is cartoon, nature: drawn
+438: Parameter: 198; 1980 movie, named kydkibsaei is cartoon, nature: drawn
+439: Parameter: 198.4; 1984 movie, named npsslvrhyo is screenplay, directed by lkwqoxndgyeosrmgqccgawxp
+440: Parameter: 200.8; 2008 movie, named veypuxkdov is cartoon, nature: plasticine
+441: Parameter: 203.222; 1829 movie, named acoznuayx is cartoon, nature: drawn
+442: Parameter: 203.444; 1831 movie, named vddkyzgyg is screenplay, directed by xzpibmzcoqkmnqxdrqfstvhlctoyhtysiib
+443: Parameter: 205.333; 1848 movie, named qxhcpruub is cartoon, nature: pupped
+444: Parameter: 205.667; 1851 movie, named rpepavebs is cartoon, nature: drawn
+445: Parameter: 206.444; 1858 movie, named vgbrflytp is cartoon, nature: drawn
+446: Parameter: 207.111; 1864 movie, named aafajoict is screenplay, directed by qrxbgjfksdqkd
+447: Parameter: 211.222; 1901 movie, named akericmfh is screenplay, directed by cqgommtuupnhwbdxrykkchoesswzrcevckctetlrflxuq
+448: Parameter: 211.889; 1907 movie, named okxtmcadh is screenplay, directed by cjmpqbnuievfmxjqxwxlmrkwgwyxcin
+449: Parameter: 221.444; 1993 movie, named bjywawpcs is cartoon, nature: drawn
+450: Parameter: 222.222; 2000 movie, named actiwqisn is screenplay, directed by qkhgpyifvtgh
+451: Parameter: 223.444; 2011 movie, named jjxpfplen is cartoon, nature: drawn
+452: Parameter: 229.25; 1834 movie, named roeugyay is cartoon, nature: plasticine
+453: Parameter: 234.375; 1875 movie, named krzagjwo is screenplay, directed by jngqbpbouyndgypkwjptxuilvvcasqsuhazmjfkpgpr
+454: Parameter: 234.5; 1876 movie, named xajafzzg is screenplay, directed by itrhilvquw
+455: Parameter: 236.75; 1894 movie, named aojcxpvs is cartoon, nature: drawn
+456: Parameter: 237.75; 1902 movie, named tmajgire is screenplay, directed by s
+457: Parameter: 239.625; 1917 movie, named ptzdfjhw is cartoon, nature: pupped
+458: Parameter: 244; 1952 movie, named jizsszwp is screenplay, directed by binmdethhbfos
+459: Parameter: 244.625; 1957 movie, named svfgoegu is screenplay, directed by oi
+460: Parameter: 244.875; 1959 movie, named yiqjvids is screenplay, directed by sblqkalpykyzccvrckltjdixjajyfujmlcidohbitijb
+461: Parameter: 246.5; 1972 movie, named poxaroyg is screenplay, directed by ponuympjnbrigzvaulavpntapbynoorttgdjpwoqn
+462: Parameter: 248.625; 1989 movie, named swvwzcvd is cartoon, nature: drawn
+463: Parameter: 250.125; 2001 movie, named ruopgmye is screenplay, directed by qvnmayokllfidfvhqwniqmfqgmympnriereoesbhrd
+464: Parameter: 251.75; 2014 movie, named qzaiiyhv is screenplay, directed by etyafzypxohnqcrljhwnxwjhuguoblifnjy
+465: Parameter: 259.143; 1814 movie, named fqiwtpd is cartoon, nature: drawn
+466: Parameter: 262.143; 1835 movie, named rqfbdho is cartoon, nature: drawn
+467: Parameter: 262.714; 1839 movie, named pqcfxif is screenplay, directed by knyoypyfyojjnykoypyfcwvgokckjcqnxyjl
+468: Parameter: 264.714; 1853 movie, named xynexxl is cartoon, nature: drawn
+469: Parameter: 266.714; 1867 movie, named jcccyqm is cartoon, nature: anime
+470: Parameter: 267.714; 1874 movie, named odgghrz is cartoon, nature: drawn
+471: Parameter: 273.143; 1912 movie, named ztfyedw is cartoon, nature: drawn
+472: Parameter: 279.571; 1957 movie, named cectppx is screenplay, directed by fjuiyapradhhhfwqgyasq
+473: Parameter: 279.857; 1959 movie, named gpzjqzn is cartoon, nature: plasticine
+474: Parameter: 281; 1967 movie, named luvoahm is cartoon, nature: plasticine
+475: Parameter: 286; 2002 movie, named lesvlim is cartoon, nature: drawn
+476: Parameter: 286.429; 2005 movie, named cyweine is cartoon, nature: drawn
+477: Parameter: 300; 1800 movie, named iyeohy is screenplay, directed by qbygykwwwqsbdnerdjboeakbjgdx
+478: Parameter: 318.333; 1910 movie, named bgqblo is cartoon, nature: drawn
+479: Parameter: 324.667; 1948 movie, named ptqesw is cartoon, nature: plasticine
+480: Parameter: 330.167; 1981 movie, named fotgdy is cartoon, nature: drawn
+481: Parameter: 330.833; 1985 movie, named awuiyt is screenplay, directed by zxjxxzah
+482: Parameter: 336.5; 2019 movie, named zdsrel is cartoon, nature: drawn
+483: Parameter: 336.833; 2021 movie, named cpojco is screenplay, directed by cxauf
+484: Parameter: 379.4; 1897 movie, named igocn is cartoon, nature: drawn
+485: Parameter: 382; 1910 movie, named qkvuj is screenplay, directed by quh
+486: Parameter: 386; 1930 movie, named vpany is cartoon, nature: pupped
+487: Parameter: 395.4; 1977 movie, named qhdau is screenplay, directed by sxmmwcgqbtgmckhehxobkucfn
+488: Parameter: 395.6; 1978 movie, named kdflo is screenplay, directed by howkibqpjrsigeqzkikhtfjlsiymgqtfjc
+489: Parameter: 450.5; 1802 movie, named aiaq is cartoon, nature: pupped
+490: Parameter: 453.75; 1815 movie, named tnav is screenplay, directed by akdcfwtcilavujfsvmhkwdbgmieqwltuysoeikx
+491: Parameter: 462; 1848 movie, named vmnn is screenplay, directed by oeykdozhsgljrjvfop
+492: Parameter: 466; 1864 movie, named krvs is screenplay, directed by rzvpnybheqbdjpmaiilgjkcewvvrkhqdwnthjjlwgg
+493: Parameter: 469.75; 1879 movie, named ypcn is cartoon, nature: drawn
+494: Parameter: 471.25; 1885 movie, named xsdi is cartoon, nature: anime
+495: Parameter: 476.25; 1905 movie, named jdgj is cartoon, nature: drawn
+496: Parameter: 477.75; 1911 movie, named epky is screenplay, directed by imafmttelsemodykqitiupazgakzgrwqhmlqxiiq
+497: Parameter: 478.5; 1914 movie, named kuoq is cartoon, nature: drawn
+498: Parameter: 479.25; 1917 movie, named dnit is cartoon, nature: pupped
+499: Parameter: 480; 1920 movie, named rvsb is cartoon, nature: drawn
+500: Parameter: 480.25; 1921 movie, named mjla is screenplay, directed by anndrdalbftfrybcviaxntzonqtuouaybiavlvfoqcbmeypv
+501: Parameter: 482; 1928 movie, named gyfk is cartoon, nature: anime
+502: Parameter: 491.5; 1966 movie, named izus is screenplay, directed by mlhgecbzfxkgkadlcjgcbsswnxrfhjskvjxtjxwstlcdt
+503: Parameter: 499.25; 1997 movie, named eaph is cartoon, nature: drawn
+504: Parameter: 500.25; 2001 movie, named axvt is cartoon, nature: drawn
+505: Parameter: 500.75; 2003 movie, named whmh is cartoon, nature: drawn
+506: Parameter: 605.667; 1817 movie, named oof is screenplay, directed by qceqwmkmohzpjbnxpewtntoqtkgybvtunvucumwdlekqscp
+507: Parameter: 608; 1824 movie, named bmw is screenplay, directed by rymtwu
+508: Parameter: 611.667; 1835 movie, named gyu is cartoon, nature: drawn
+509: Parameter: 615.333; 1846 movie, named jpa is cartoon, nature: drawn
+510: Parameter: 625.333; 1876 movie, named tbo is cartoon, nature: anime
+511: Parameter: 646; 1938 movie, named otl is screenplay, directed by xkfnyirgmuk
+512: Parameter: 650.667; 1952 movie, named hfp is cartoon, nature: drawn
+513: Parameter: 651.333; 1954 movie, named ksv is cartoon, nature: drawn
+514: Parameter: 652.667; 1958 movie, named jwj is cartoon, nature: anime
+515: Parameter: 659.333; 1978 movie, named fpa is screenplay, directed by yombsaijdjkvezyupbepikpdffbjwvyahfmogpepvjhjok
+516: Parameter: 672.333; 2017 movie, named ddb is cartoon, nature: drawn
+517: Parameter: 909; 1818 movie, named ej is screenplay, directed by mtanswssdzdmkuyansdrzk
+518: Parameter: 914; 1828 movie, named fi is cartoon, nature: plasticine
+519: Parameter: 915; 1830 movie, named nf is cartoon, nature: plasticine
+520: Parameter: 916.5; 1833 movie, named yg is cartoon, nature: anime
+521: Parameter: 928.5; 1857 movie, named zi is cartoon, nature: drawn
+522: Parameter: 940.5; 1881 movie, named va is screenplay, directed by fpqao
+523: Parameter: 946; 1892 movie, named ax is cartoon, nature: drawn
+524: Parameter: 948; 1896 movie, named kp is screenplay, directed by npbtnpnqhxonkktkw
+525: Parameter: 949.5; 1899 movie, named pv is cartoon, nature: drawn
+526: Parameter: 952.5; 1905 movie, named yb is screenplay, directed by buugmaupzdgfabcaqwsindusmavsvelrqjyqxowmqrwvg
+527: Parameter: 958.5; 1917 movie, named lj is cartoon, nature: drawn
+528: Parameter: 994.5; 1989 movie, named ex is cartoon, nature: drawn
+529: Parameter: 998; 1996 movie, named ib is cartoon, nature: drawn
+530: Parameter: 1816; 1816 movie, named q is cartoon, nature: drawn
+531: Parameter: 1828; 1828 movie, named n is screenplay, directed by yncyjhfjuwtlrevinevpfwhwriyqugaquymnilthvuoyq
+532: Parameter: 1834; 1834 movie, named r is cartoon, nature: drawn
+533: Parameter: 1841; 1841 movie, named h is screenplay, directed by mxmvviqdnkaxflaegugnfmlvcanwsdrfxivqbyxrxhgbqtrxh
+534: Parameter: 1852; 1852 movie, named b is screenplay, directed by jtxbdmdbcynshshymfyysivxuwsgdhv
+535: Parameter: 1867; 1867 movie, named e is cartoon, nature: plasticine
+536: Parameter: 1900; 1900 movie, named j is cartoon, nature: pupped
+537: Parameter: 1905; 1905 movie, named p is screenplay, directed by buryatawchroqbppowlfvn
+538: Parameter: 1911; 1911 movie, named p is cartoon, nature: drawn
+539: Parameter: 1922; 1922 movie, named y is screenplay, directed by lcnrlxlxwbswcq
+540: Parameter: 1923; 1923 movie, named i is cartoon, nature: drawn
+541: Parameter: 1959; 1959 movie, named l is cartoon, nature: anime
+542: Parameter: 1965; 1965 movie, named c is screenplay, directed by zjxigsecivztmtnxhkihgb
+Arithmetic mean of all parameters = 185.057
+Calculaton time = 0 sec, 4734445 nsec

@@ -1,0 +1,7 @@
+Container contains 4 elements.
+0: Parameter: 167.833; 2014 movie, named Interstellar is screenplay, directed by Nolan
+1: Parameter: 223.333; 2010 movie, named Inception is screenplay, directed by Nolan
+2: Parameter: 285.286; 1997 movie, named Brother is screenplay, directed by Balabanov
+3: Parameter: 403.8; 2019 movie, named Claus is cartoon, nature: pupped
+Arithmetic mean of all parameters = 270.063
+Calculaton time = 0 sec, 2224 nsec
